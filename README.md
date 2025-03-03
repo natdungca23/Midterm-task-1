@@ -11,3 +11,6 @@
 * Handle errors using IFERROR and the Find and Replace feature.
 * Standardize number formatting.
 # Step 3: Here's the screenshot of my output before I started data cleaning (See Screenshot)
+![image alt](https://github.com/natdungca23/Midterm-task-1/blob/c2f5a5c4095aee688b99b7c006bc82d4557a24d2/Screenshot%202025-03-03%20131906.png)
+# Step 4: Here's the screenshot of my output after I started data cleaning (See screenshot)
+![image alt]()
