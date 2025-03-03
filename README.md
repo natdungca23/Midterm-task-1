@@ -19,5 +19,5 @@
 ![image alt](https://github.com/natdungca23/Midterm-task-1/blob/c2f5a5c4095aee688b99b7c006bc82d4557a24d2/Screenshot%202025-03-03%20131906.png)
 # Step 4: Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![image alt](https://github.com/natdungca23/Midterm-task-1/blob/9496b1f7fa526cebdeca22086339e75142e7272f/Screenshot%202025-03-03%20132235.png)
-# Here's the finish work
+# Here's the Physical Model
 ![image alt](https://github.com/natdungca23/Midterm-task-1/blob/3a4a39c2059ab831ec7195b8ecdbadfcf82a23b0/Screenshot%202025-03-03%20132406.png)
